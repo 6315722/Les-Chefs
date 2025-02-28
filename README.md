@@ -10,15 +10,17 @@ Nous avons finalement besoin d'un calculateur qui nous donne notre stock en inve
 
 
 
+
 cerveau = 30 000$
 
-poumnons = 15 000$
+poumons = 15 000$
 
 reins = 10 000$
 
 foie = 12 000$
 
 Coeur = 50 000$
+
 
 
 Étant donné que la vente d'organe se fait sur le marché noir, nous avons seulement 1 chance sur 3 que la vente soit réussi. Vous devez donc nous dire si la vente est une réussite ou un échec.
