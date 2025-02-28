@@ -11,9 +11,13 @@ Nous avons finalement besoin d'un calculateur qui nous donne notre stock en inve
 
 
 cerveau = 30 000$
+
 poumnons = 15 000$
+
 reins = 10 000$
+
 foie = 12 000$
+
 Coeur = 50 000$
 
 
